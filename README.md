@@ -9,8 +9,4 @@
   - [Testing](./JavaScript/Testing.md)
   - [Debug](./JavaScript/Debug.md)
 - [Git](./Git/Readme.md)
-  - [Convention](./Git/Convention.md)
-  - [Workflow](./Git/Workflow.md)
-  - [Advices](./Git/Advices.md)
-  - [Pull Requests](./Git/PullRequests.md)
 - [Полезные ссылки](./Common/UsefulLinks.md)

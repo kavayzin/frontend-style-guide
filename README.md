@@ -6,6 +6,7 @@
     - [BEM](./CSS/Methodology/BEM.md)
     - [CSS Modules](./CSS/Methodology/CSSModules.md)
 - [JavaScript](./JavaScript/Readme.md)
+  - [Style guides](./JavaScript/Styleguides.md)
   - [Testing](./JavaScript/Testing.md)
   - [Debug](./JavaScript/Debug.md)
 - [Git](./Git/Readme.md)

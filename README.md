@@ -9,6 +9,7 @@
   - [Style guides](./JavaScript/Styleguides/Readme.md)
   - [Testing](./JavaScript/Testing.md)
   - [Debug](./JavaScript/Debug.md)
+  - [Logging](./Javascript/Logging.md)
 - [Git](./Git/Readme.md)
   - [Convention](./Git/Convention.md)
   - [Workflow](./Git/Workflow.md)

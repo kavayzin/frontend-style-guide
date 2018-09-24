@@ -21,6 +21,7 @@
 - Тестирование:
   - [jest](https://jestjs.io/) - фреймворк для тестирования 
   - [Тестирование однофайловых компонентов](https://ru.vuejs.org/v2/guide/unit-testing.html)
+  - [Общая информация по тестированию vue](https://vue-test-utils.vuejs.org/ru/)
 - Frontend frameworks:
   - [vue](https://vuejs.org/) - frontend framework
   - [vuex](https://vuex.vuejs.org/ru/guide/) - контроль состояний

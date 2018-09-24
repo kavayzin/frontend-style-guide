@@ -30,6 +30,3 @@
 - Стиль кода:
   - [eslint](https://eslint.org/) для проверки качества кода
   - [.editorconfig](./JavaScript/Styleguides/.editorconfig) файл с конфигурацией для IDE
-  
-  
-  

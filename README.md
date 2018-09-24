@@ -20,6 +20,7 @@
 ## Используемые инструменты и технологии:
 - Тестирование:
   - [jest](https://jestjs.io/) - фреймворк для тестирования 
+  - [Тестирование однофайловых компонентов](https://ru.vuejs.org/v2/guide/unit-testing.html)
 - Frontend frameworks:
   - [vue](https://vuejs.org/) - frontend framework
   - [vuex](https://vuex.vuejs.org/ru/guide/) - контроль состояний
